@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-github-auth-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skatpgusskat/nodejs-github-auth-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skatpgusskat/nodejs-github-auth-example/issues"
+  },
+  "homepage": "https://github.com/skatpgusskat/nodejs-github-auth-example#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "knex": "^0.16.3",
+    "passport": "^0.4.0",
+    "passport-github": "^1.1.0",
+    "sqlite3": "^4.0.6"
+  }
+}
